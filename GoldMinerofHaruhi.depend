@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1405674439 source:e:\365projects\goldminerofharuhi\main.cpp
+	<iostream>
+	"CStartPage.h"
+	"CGamePlay.h"
+	"CEndPage.h"
+	"CRegulate.h"
+	<windows.h>
+	<mmsystem.h>
+
+1405732271 e:\365projects\goldminerofharuhi\include\cstartpage.h
+	"highgui.h"
+
+1405733831 source:e:\365projects\goldminerofharuhi\src\cstartpage.cpp
+	"CStartPage.h"
+
+1405735936 source:e:\365projects\goldminerofharuhi\src\cgameplay.cpp
+	"CGamePlay.h"
+	"CDrawToBK.h"
+	<math.h>
+	<stdio.h>
+	<windows.h>
+	"highgui.h"
+
+1405735692 e:\365projects\goldminerofharuhi\include\cgameplay.h
+	"highgui.h"
+
+1405585756 e:\365projects\goldminerofharuhi\include\cendpage.h
+	"highgui.h"
+
+1405735692 source:e:\365projects\goldminerofharuhi\src\cendpage.cpp
+	"CEndPage.h"
+	"highgui.h"
+	<stdio.h>
+
+1405735692 source:e:\365projects\goldminerofharuhi\src\cdrawtobk.cpp
+	"CDrawToBK.h"
+	"CGamePlay.h"
+	<stdio.h>
+	<math.h>
+
+1405586668 e:\365projects\goldminerofharuhi\include\cdrawtobk.h
+	"highgui.h"
+	"CGamePlay.h"
+
+1405694724 e:\365projects\goldminerofharuhi\include\cregulate.h
+	"CStartPage.h"
+	"CGamePlay.h"
+	"CEndPage.h"
+
+1405735692 source:e:\365projects\goldminerofharuhi\src\cregulate.cpp
+	"CRegulate.h"
+	"CStartPage.h"
+	"CGamePlay.h"
+	"CEndPage.h"
+	<windows.h>
+	<iostream>
+
