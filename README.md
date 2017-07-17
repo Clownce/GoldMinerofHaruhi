@@ -1,0 +1,2 @@
+# GoldMinerofHaruhi
+基于OpenCV的黄金矿工凉宫春日版
